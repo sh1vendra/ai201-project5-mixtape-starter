@@ -115,3 +115,15 @@ fix: correct Sunday boundary condition in streak reset logic
 ```
 
 See the project brief for full submission requirements.
+
+### Commit History
+
+`git log --oneline` on `bugfix/mixtape`, showing a separate commit per bug fix:
+
+```
+fc3504d fix: stop dropping the last song in a playlist
+efcddbd fix: notify song sharer when their song gets rated
+143f980 fix: correct sunday boundary condition in streak reset logic
+2dfdeaa Add .gitignore file and update README with setup instructions
+7b64551 initial commit
+```
